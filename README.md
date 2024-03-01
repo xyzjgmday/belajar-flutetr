@@ -1,16 +1,25 @@
-# belajar_flutter
+# MyFlutterApp
 
-A new Flutter project.
+Ini adalah proyek Flutter sederhana yang dibuat untuk tujuan pembelajaran.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Sebelum memulai, pastikan telah menginstal Flutter SDK dan Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+### Instalasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Untuk menginstal proyek ini, ikuti langkah-langkah di bawah ini:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone:**
+   ```bash
+   git clone https://github.com/xyzjgmday/belajar-flutter
+   ```
+2. **Buka folder proyek menggunakan terminal atau command prompt.**
+3. **Jalankan perintah untuk menginstal semua dependencies:**
+   ```bash
+   flutter pub get
+   ```
+4. **Jalankan aplikasi dengan perintah:**
+   ```bash
+   flutter run
+   ```
